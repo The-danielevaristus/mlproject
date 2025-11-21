@@ -3,4 +3,9 @@ numpy
 scikit-learn
 flask
 seaborn
--e .
+ipykernel
+matplotlib
+xgboost
+catboost
+scikit-learn
+##-e .
